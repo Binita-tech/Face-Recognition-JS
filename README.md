@@ -5,7 +5,11 @@
 # Goals ⛳️
 
 - Detect faces in images.
-- Switch webcam on with JavaScript and recognize specific faces with it.
+
+
+# Overview
+
+> This AI is able to recognize the name of every character in an image very quickly without much performance overhead. We will be using the Face API JS library built on Tensor Flow to setup the face recognition.
 
 # Problem
 
