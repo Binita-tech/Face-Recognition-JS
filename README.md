@@ -5,7 +5,7 @@
 # Goals ⛳️
 
 - Detect faces in images.
-- Switch webcam on with JavaScript and recognize specific faces with it.
+
 
 # Overview
 
