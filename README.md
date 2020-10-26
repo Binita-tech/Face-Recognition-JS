@@ -25,4 +25,4 @@
 
 # Note
 
-- Please use a Full HD Camera to get the best results.Moreover the low quality camera will yield less accurate colours.
+- Please use a Full HD Camera to get the best results.MoreOver the low quality camera will yield less accurate results.
